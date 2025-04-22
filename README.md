@@ -5,4 +5,4 @@
 
 Watch tutorial on YouTube.
 
-Nu inteleg de ce in git status nu apare acest fisier
+mai scriu aici ceva ca sa dau push inca odata
